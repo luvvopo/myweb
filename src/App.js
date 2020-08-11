@@ -6,7 +6,7 @@ import {Button, Progress} from 'semantic-ui-react'
 function App() {
   return (
     <div>
-    <p> 안녕하 세요 !윤보경 입니!</p>
+    <p> 안녕하 세요 !윤보경 입니</p>
     <Button Primary> hi </Button>
     <Progress percent = {33} indicating/>
     </div>
